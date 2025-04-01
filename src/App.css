@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.ul__table {
+  border: 2px solid red;
+  border-radius: 1rem;
+  align-content: space-between;
+  gap: 2rem;
+  padding: 1rem;
+  margin: 2rem;
+  text-indent: 100px;
+  align-items: center;
+}
+.t__body {
+  text-indent: 100px;
+  align-content: space-between;
+  align-items: center;
+  background-color: #b8f1eb
+};
